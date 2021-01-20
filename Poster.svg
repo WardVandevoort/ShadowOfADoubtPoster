@@ -23,11 +23,11 @@
 		#BloodDrop{
 			width: 300%;
 			position: relative;
-			-webkit-animation: drop 1s ease-in;
+			-webkit-animation: drop 1.5s ease-in;
 		}
 
 		#Quote .st4{
-			-webkit-animation: colorChange 6s linear 1s;
+			-webkit-animation: colorChange 6s linear 1.5s;
 		}
 
 		@-webkit-keyframes drop{
